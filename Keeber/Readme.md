@@ -64,6 +64,19 @@
 ### Challenge 7:
 ![Keeber7](https://user-images.githubusercontent.com/61092858/166133282-89721691-f8b6-43e6-91a3-3fed965b4994.png)
 
+### Solution:
+1. Get the email of hacker: cheerios.fanatic1941@gmail.com
+2. let's osint via email: I had solved it using an email osint platform epieos.com but after I solved the hint from there was removed
+3. but I got to know the actual solution didn't required it, it require maltego
+4. you get that the email is registered on myspace.com
+5. create myspcae account and search email of hacker there:![issac anderson](https://user-images.githubusercontent.com/61092858/166135440-2285b66a-a9b8-48d4-8e49-df181ca6fc57.png)
+6. flag: flag{4a7e2fcd7f85a315a3914197c8a20f0d}
 
 ### Challenge 8:
 ![Keeber8](https://user-images.githubusercontent.com/61092858/166133286-47ea0cdc-0c39-4619-8996-f3c8f944a8fb.png)
+
+### Solution:
+1. Look Closely in the above image, on hackers myspace account you get a new username
+2. user sherlock to search this username or use any other username osint tools
+3. Pastebin is a place where hacker can post sensitive info: https://pastebin.com/u/cereal_lover1990: visit the link
+4. flag: flag{70b5a5d461d8a9c5529a66fa018ba0d0} : ![flag maria data](https://user-images.githubusercontent.com/61092858/166135779-246a17d9-3e29-4cf6-8c2b-3317109283df.png)
