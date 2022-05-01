@@ -3,7 +3,9 @@
 ### Challenge 1:
 ![Keeber1](https://user-images.githubusercontent.com/61092858/166133241-d456b99b-3821-4b42-b78b-e4ce23ef2a5e.png)
 
-
+### Solution: 
+1. Google Search: Keeber Secruity Group and you get the website of the company
+2. Do whois search on keebersecuritygroup.com
 ### Challenge 2:
 ![Keeber2](https://user-images.githubusercontent.com/61092858/166133259-527b594b-cfd0-4bef-957d-98cdef2e29a5.png)
 
