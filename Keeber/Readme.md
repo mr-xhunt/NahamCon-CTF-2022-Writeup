@@ -77,6 +77,7 @@
 
 ### Solution:
 1. Look Closely in the above image, on hackers myspace account you get a new username
-2. user sherlock to search this username or use any other username osint tools
+2. use social analyzer to search this username or use any other username osint tools like sherlock![image](https://user-images.githubusercontent.com/61092858/166136502-bf1fc118-51a0-4181-a465-7eb644e8bcde.png)
+
 3. Pastebin is a place where hacker can post sensitive info: https://pastebin.com/u/cereal_lover1990: visit the link
 4. flag: flag{70b5a5d461d8a9c5529a66fa018ba0d0} : ![flag maria data](https://user-images.githubusercontent.com/61092858/166135779-246a17d9-3e29-4cf6-8c2b-3317109283df.png)
