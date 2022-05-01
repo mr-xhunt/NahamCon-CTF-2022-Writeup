@@ -32,7 +32,7 @@
 ### Solution:
 1. We get the Password Database on this link: https://github.com/keebersecuritygroup/password-manager
 2. Download and use john to create hash: keepass2john ksg_passwd_db.kdbx > hash
-3. Create wordlist from the github repo: security-evaluation-workflow 
+3. Create wordlist from the github repo: security-evaluation-workflow : https://github.com/keebersecuritygroup/security-evaluation-workflow
 4. Copy all the word from each and every file and paste here: https://design215.com/toolbox/wordlist.php
 5. Check the following box remove duplicate words and do not separate hyphenated words
 6. Copy the wordlist and use either hashcat or john to crack the password, for hashcat remove the name part![hashcat](https://user-images.githubusercontent.com/61092858/166134350-ff4e4990-9cc0-4b97-b526-ca376b6b1832.jpg)
