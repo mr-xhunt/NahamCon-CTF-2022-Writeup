@@ -68,7 +68,7 @@
 1. Get the email of hacker: cheerios.fanatic1941@gmail.com
 2. let's osint via email: I had solved it using an email osint platform epieos.com but after I solved the hint from there was removed
 3. but I got to know the actual solution didn't required it, it require maltego
-4. you get that the email is registered on myspace.com
+4. you get that the email is registered on https://myspace.com/
 5. create myspcae account and search email of hacker there:![issac anderson](https://user-images.githubusercontent.com/61092858/166135440-2285b66a-a9b8-48d4-8e49-df181ca6fc57.png)
 6. flag: flag{4a7e2fcd7f85a315a3914197c8a20f0d}
 
