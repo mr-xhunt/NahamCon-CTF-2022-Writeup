@@ -21,6 +21,9 @@
 ![Keeber3](https://user-images.githubusercontent.com/61092858/166133263-d991a8e3-d4fc-407e-87b3-3880d184b842.png)
 
 ### Solution:
+1. From their website we get a github link, let's go their and find all the commits of the Ex Employee![asana secret txt](https://user-images.githubusercontent.com/61092858/166133920-4fd284b0-cb26-4484-9e14-15fe29f80540.png)
+2. We get the secret key for asana, go to this github repo: https://github.com/streaak/keyhacks#Asana-Access-Token and see how we can curl to asana users data with the secret key
+3. Curl and get the flag: flag{49305a2a9dcc503cb2b1fdeef8a7ac04}![asana flag](https://user-images.githubusercontent.com/61092858/166133987-256201d8-fd1b-4c99-aaad-149fb3abc5e0.png)
 
 
 ### Challenge 4:
