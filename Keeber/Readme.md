@@ -43,10 +43,23 @@
 ### Challenge 5:
 ![Keeber5](https://user-images.githubusercontent.com/61092858/166133271-8ae81171-859f-41dd-8dfa-1c12db441e71.png)
 
+### Solution:
+1. got to know about this article: https://www.nymeria.io/blog/how-to-manually-find-email-addresses-for-github-users
+2. then I simply went to check all the commits of the ex employee and added .patch in every commit until I found the flag: flag{2c90416c24a91a9e1eb18168697e8ff5}: ![tiffany email](https://user-images.githubusercontent.com/61092858/166134575-4dbb0aa9-956f-48f9-ab60-001503769a61.png)
+
 
 ### Challenge 6:
 ![Keeber6](https://user-images.githubusercontent.com/61092858/166133275-6d4f5f56-9a85-4271-9db6-d527099f92ed.png)
 
+### Solution:
+1. In previous solution we also got a new email let's pivot it to make use of it:
+2. Remove @gmail.com part and think of where this could be used as username, I search for her manually you can use username osint tools like Sherlock and others
+3. Found an Instagram account of hers: https://www.instagram.com/tif.hearts.science/
+4. Check all her post and you will find one image of a ferry dock which she talks about, in the image if you look closely there is 5 written![279110597_5135446159853761_9027934522620798320_n](https://user-images.githubusercontent.com/61092858/166134751-94bb4037-873f-419e-9ac9-67c04c1e9ce6.jpg)
+5. Also Check the github of Tiffany: https://github.com/keeber-tiffany : It says she is from "Maine"
+6. Search on Google Maps: ferry dock 5 Portland Maine ![image](https://user-images.githubusercontent.com/61092858/166134936-a6ba0e05-0fab-43c2-9075-c5f9b8dda743.png)
+7. Check All the hotels review on yelp, that's a bit frustrating but I guess that's the challenge
+8. Residence Inn by Marriott Portland Downtown/Waterfront: Check review of this hotel and sort by newest first, you would get the flag, currently the review is missing
 
 ### Challenge 7:
 ![Keeber7](https://user-images.githubusercontent.com/61092858/166133282-89721691-f8b6-43e6-91a3-3fed965b4994.png)
