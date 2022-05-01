@@ -29,6 +29,16 @@
 ### Challenge 4:
 ![Keeber4](https://user-images.githubusercontent.com/61092858/166133264-c6528aa1-4c76-49cc-8aa7-d50483a19bf7.png)
 
+### Solution:
+1. We get the Password Database on this link: https://github.com/keebersecuritygroup/password-manager
+2. Download and use john to create hash: keepass2john ksg_passwd_db.kdbx > hash
+3. Create wordlist from the github repo: security-evaluation-workflow 
+4. Copy all the word from each and every file and paste here: https://design215.com/toolbox/wordlist.php
+5. Check the following box remove duplicate words and do not separate hyphenated words
+6. Copy the wordlist and use either hashcat or john to crack the password, for hashcat remove the name part![hashcat](https://user-images.githubusercontent.com/61092858/166134350-ff4e4990-9cc0-4b97-b526-ca376b6b1832.jpg)
+7. Download Keepass on windows and load the password database and use password: craccurrelss : flag{9a59bc85ebf02d5694d4b517143efba6} ![keepass password](https://user-images.githubusercontent.com/61092858/166134434-10768037-88b8-40a2-a88d-5ef27d656969.png)
+
+
 
 ### Challenge 5:
 ![Keeber5](https://user-images.githubusercontent.com/61092858/166133271-8ae81171-859f-41dd-8dfa-1c12db441e71.png)
