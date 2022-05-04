@@ -60,8 +60,8 @@
 6. Search on Google Maps: ferry dock 5 Portland Maine ![image](https://user-images.githubusercontent.com/61092858/166134936-a6ba0e05-0fab-43c2-9075-c5f9b8dda743.png)
 7. Check All the hotels review on yelp, that's a bit frustrating but I guess that's the challenge
 8. Residence Inn by Marriott Portland Downtown/Waterfront: Check review of this hotel and sort by newest first, you would get the flag
-flag: flag{0d70179f4c993c5eb3ba9becfb046034}![tiffany-review flag](https://user-images.githubusercontent.com/61092858/166651113-8912f543-f189-437e-bfc6-606539dfd0a3.png)
 #### Currently the user has been shadow banned show you will not find the review
+flag: flag{0d70179f4c993c5eb3ba9becfb046034}![tiffany-review flag](https://user-images.githubusercontent.com/61092858/166651113-8912f543-f189-437e-bfc6-606539dfd0a3.png)
 
 ### Challenge 7:
 ![Keeber7](https://user-images.githubusercontent.com/61092858/166133282-89721691-f8b6-43e6-91a3-3fed965b4994.png)
